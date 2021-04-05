@@ -1,0 +1,1 @@
+/usr/bin/c++ -pthread -g CMakeFiles/philosophers.dir/main.cpp.o CMakeFiles/philosophers.dir/philosopher.cpp.o CMakeFiles/philosophers.dir/tableware.cpp.o CMakeFiles/philosophers.dir/waiter.cpp.o -o philosophers  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 
